@@ -6,10 +6,10 @@ Este projeto em **Python** realiza uma automação completa: ele lê dados de um
 
 ## 📂 Estrutura do Projeto
 
-📁 automacao-tarefas/ 
+📁 `automacao-tarefas/ 
 ├── dados.csv # Arquivo com os dados que serão processados 
 ├── bot.py # Script principal da automação 
-└── README.md # Documentação do projeto
+└── README.md # Documentação do projeto`
 
 
 ---
